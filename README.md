@@ -1,1 +1,5 @@
-I made a python script for extracting images from instagram posts by fetching the html elements in the webpage and searching for specific elements that goes by <img src="#">, The use is very simple just run the main.py and enter a url then you get results :)
+I made a python script for extracting images from instagram posts by fetching the html elements in the webpage and searching for specific elements that goes by <img src="#">, 
+**INSTALLATION**
+**git clone github.com/sh4d-dot/Instagram-post-photos-extractor**
+**cd "your_folder"**
+**pip install selenium webdriver-manager**
